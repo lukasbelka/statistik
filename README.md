@@ -5,4 +5,4 @@ Dieses Repository enthält alle Colab-Notebooks, die jeweils den begleitenden Co
 | Notebook Name im Repository | Website-Beitrag |
 | --- | ----------- |
 | quartil.ipynb | [lukasbelka.com/statistik/quartile](https://www.lukasbelka.com/statistik/quartil) |
-| next | next |
+| der-boxplot | [lukasbelka.com/visualisierung/boxplot](https://www.lukasbelka.com/visualisierung/boxplot) |
